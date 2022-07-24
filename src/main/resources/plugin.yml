@@ -1,0 +1,5 @@
+name: SkyBlockReforged
+version: '${project.version}'
+main: me.imjaxs.elyscube.skyblockreforged.SkyBlockReforged
+authors: [ ImJaxs ]
+website: https://github.com/ElysCube-IT/SkyBlockReforged
